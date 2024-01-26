@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Felipe Lopes 😉
+## Bem-vindo(a) ao perfil do Felipe Lopes! 😉
 
  <div>
    <a href="https://github.com/felipe-lopess">
