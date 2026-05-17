@@ -1,9 +1,6 @@
 ## Seja bem-vindo(a) ao meu perfil! 😉
 
  <div>
-   <a href="https://github.com/felipe-lopess">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=felipe-lopess&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-lopess&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
